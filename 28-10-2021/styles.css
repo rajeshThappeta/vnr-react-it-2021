@@ -1,0 +1,14 @@
+.first{
+    color:red;
+    text-align: center;
+    border:2px solid black;
+    padding:50px;
+    margin:50px 100px;
+}
+
+img{
+    width:300px;
+    border:6px solid blue;
+    padding:20px;
+
+}
