@@ -1,0 +1,21 @@
+div{
+    text-align: center;
+   
+}
+
+img{
+    width:300px;
+}
+
+h1{
+    color:green;
+}
+p{
+    color:blue;
+}
+
+span{
+    color:red;
+    font-weight: bold;
+    text-decoration: underline;
+}

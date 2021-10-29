@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color:navy;
+}
+
+table{
+    width:700px;
+    text-align: center;
+    background-color: khaki;
+    font-weight: bold;
+    color:red;
+}
+
+table,th,tr,td{
+
+    border:3px solid rgb(139, 133, 133);
+    border-collapse: collapse;
+    padding: 20px;
+}
+
+th{
+    background-color: black;
+    color:white;
+}
