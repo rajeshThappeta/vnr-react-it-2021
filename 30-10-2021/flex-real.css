@@ -1,0 +1,30 @@
+ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    background-color: darkslateblue;
+    color:white;
+    padding: 10px;
+}
+
+.parent{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.child1,.child2,.child3{
+    width:200px;
+    border-radius: 50px;
+    background-color: #ffffff;
+    padding: 20px;
+    box-shadow: 10px 10px 210px #beb3b3;
+}
+
+img{
+    border-radius: 50px;;
+}
+h1{
+    text-align: center;
+    color:deeppink;
+}

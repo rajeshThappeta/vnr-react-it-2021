@@ -1,0 +1,36 @@
+.parent{
+    max-width:500px;
+    height: 500px;
+    border:3px solid black;
+    margin: auto;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.child1,.child2,.child3{
+    width:100px;
+   
+}
+
+.child1{
+    background-color: blue;
+    height:100px;
+    
+}
+
+.child2{
+    background-color: crimson;
+    height:400px;
+   
+}
+
+.child3{
+    background-color: darkmagenta;
+    height:200px;
+ 
+    
+}
