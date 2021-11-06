@@ -1,0 +1,16 @@
+.parent{
+    /* position: relative; */
+    border:3px solid black;
+    width:500px;
+    height: 500px;
+   
+}
+
+.heading2{
+    position: sticky;
+    top:10px;
+}
+
+body{
+    height: 1000px;
+}

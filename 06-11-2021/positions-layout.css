@@ -1,0 +1,74 @@
+/* for parent */
+.profile{
+    width: 300px;
+    margin:auto;
+    margin-top:100px;
+    box-shadow: 4px 4px 6px #464646,-4px -4px 6px #4b9cb3;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+    background-image: linear-gradient(#ebeaea,#6792ba);
+    position: relative;
+}
+
+
+
+/* for profile image */
+.profile .profile-pic{
+
+    border-radius: 50%;
+    width: 70%;
+    height: 70%;
+    box-shadow: -2px -2px 3px dodgerblue;
+
+}
+
+
+/* for profile image hover */
+.profile .profile-pic:hover{
+    
+    box-shadow: 2px 2px 6px dodgerblue;
+    width:75%;
+    height: 75%;
+
+}
+
+
+/* for emp name */
+.profile h1{
+    font-family: 'Roboto', sans-serif;
+    color:deeppink;
+    text-shadow: 1px 1px 2px white;
+}
+
+.profile p{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 20px;
+}
+
+
+.fb,.linkedin{
+    width: 50px;
+}
+
+
+.fb:hover,.linkedin:hover{
+    box-shadow: 0px 0px 6px white;
+    border-radius: 50%;
+}
+
+
+.profile .logos{
+    position: absolute;
+    left:50%;
+    margin-left: -50px;
+    bottom: -25px;
+}
+
+.profile .react-logo{
+    width: 80px;
+    position: absolute;
+    top:0px;
+    right:0px;
+}
