@@ -8,23 +8,28 @@ ul{
 }
 
 .parent{
-    padding-top: 50px;
+    padding-top: 30px;
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
+    gap:20px;
+    
 }
 
 .child1,.child2,.child3{
     width:200px;
-    border-radius: 50px;
+    border-radius: 20px;
     background-color: #ffffff;
-    padding: 20px;
+    padding: 15px;
     box-shadow: 10px 10px 210px #beb3b3;
 }
 
 img{
-    border-radius: 50px;;
+    border-radius: 20px;
 }
 h1{
     text-align: center;
     color:deeppink;
+    font-size: 3rem;
+    text-shadow: 2px 2px 3px rgb(121, 10, 224);
 }

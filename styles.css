@@ -1,0 +1,32 @@
+h1 {
+    color: #ffa700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    text-shadow: 5px 5px 5px black;
+    text-align: center;
+    letter-spacing: 20px;
+    border: 10px solid black;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+}
+
+p {
+    line-height: 30px;
+    color: tomato;
+    text-indent: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    list-style-image: url("https://interactive-examples.mdn.mozilla.net/media/examples/rocket.svg");
+    text-align: center;
+    list-style-position: inside;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px darkgrey;
+}
